@@ -17,7 +17,7 @@ If you want to get the train & test dataset.
 Please contact me here: alih9862@gmail.com
 
 ## Output
-![a](https://github.com/alialhousseini/Facial-recognition/a.jpg)
-![b](https://github.com/alialhousseini/Facial-recognition/b.jpg)
-![c](https://github.com/alialhousseini/Facial-recognition/c.jpg)
-![d](https://github.com/alialhousseini/Facial-recognition/d.jpg)
+![a](https://github.com/alialhousseini/Facial-recognition/blob/master/a.PNG)
+![b](https://github.com/alialhousseini/Facial-recognition/blob/master/b.png)
+![c](https://github.com/alialhousseini/Facial-recognition/blob/master/c.png)
+![d](https://github.com/alialhousseini/Facial-recognition/blob/master/d.png)
