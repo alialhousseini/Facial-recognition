@@ -16,3 +16,8 @@ You need only to change the directory of a video in the line 11 in the file "cam
 If you want to get the train & test dataset.
 Please contact me here: alih9862@gmail.com
 
+## Output
+![a](https://github.com/alialhousseini/Facial-recognition/a.jpg)
+![b](https://github.com/alialhousseini/Facial-recognition/b.jpg)
+![c](https://github.com/alialhousseini/Facial-recognition/c.jpg)
+![d](https://github.com/alialhousseini/Facial-recognition/d.jpg)
